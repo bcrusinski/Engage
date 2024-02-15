@@ -1,4 +1,4 @@
-<img src="../assets/logointeli.png">
+<img src="../assets/institucionaisInteli/logointeli.png">
 
 
 # GDD - Game Design Document - Módulo 1 - Inteli
