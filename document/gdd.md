@@ -38,11 +38,47 @@
 
 ### 1.1.1. Contexto da indústria (sprints 1 e 4)
 
-*Posicione aqui o texto que explica o contexto da indústria/mercado do qual o parceiro de projeto faz parte. Contextualize o segmento de atuação do parceiro (pode ser indústria, comércio ou serviço). Caracterize as atividades executadas pelo negócio do parceiro e a abrangência de suas atividades (âmbito internacional, nacional ou regional).*
+	A Oracle é uma das maiores empresas atuais de tecnologia, tendo grande destaque no ramo e sendo referência em segurança cibernética. Produz majoritariamente sistemas e interfaces para bancos de dados, além de uma alta gama de softwares, hardwares e serviços relacionados à computação em nuvem.
+    Uma de suas ramificações é a Oracle Academy, uma plataforma de capacitação profissional para professores aprenderem a utilizar melhor as ferramentas Oracle em sala de aula. No entanto, nos últimos anos, com o crescimento da utilização de serviços on-line, o setor educacional voltado para professores aumentou gradativamente, mesmo que ainda tal setor seja preenchido por startups e iniciativas pouco tecnológicas agregando pouco ao letramento digital dos profissionais.
+
 
 ### 1.1.2. Análise SWOT (sprints 1 e 4)
 
-*Posicione aqui a análise SWOT relacionada ao parceiro de projeto. Utilize a análise SWOT para fazer uma análise ambiental do parceiro no âmbito estratégico. Leve em consideração o contexto da indústria, concorrência e as características do ambiente interno (forças e fraquezas) e externo (oportunidades e ameaças) do parceiro.*
+    A análise SWOT é uma ferramenta utilizada para analisar os agentes internos e externos que podem influenciar em um determinado espaço, bem como os pontos positivos e negativos que agregam ao resultado final.
+<img src = "other/Análise SWOT.png">
+
+#### Análise SWOT (Engage)
+| #  | Forças (Strengths)|
+| ---| ---               |
+| 1. | Produto agradável com boa luminosidade e sonoridade;|
+| 2. | Jogo de fácil acesso e jogabilidade;|
+| 3. | Cores neutras e visuais pixelados baseadas na modalidade “Cozy Game’ (Confortável, desestressante e aconchegante);|
+| 4. | Musicalidade desenvolvida a partir de musicoterapia para concentração e foco;|
+| 5. | Dinâmica a partir de pistas e fragmentos para a resolução do enigma, em que o mesmo representa, ao final, a conclusão de uma fase;|
+| 6. |Metodologia de instruções gamificadas;|
+
+| #  | Fraquezas (Weaknesses)|
+| ---| ---               |
+| 1. | Acessível somente para professores acadêmicos;|
+| 2. | Formato somente em 2D;|
+| 3. | Foco isolado para engajamento e instrução, tornando o público alvo demasiadamente seleto;|
+| 4. | Não é adaptável a todas as plataformas e consoles;|
+| 5. | Dependente de internet;|
+| 6. | Alguns professores podem achar a curva de aprendizado do jogo íngreme, especialmente se não estiverem familiarizados com jogos educativos;|
+
+| #  | Oportunidades (Opportunities)|
+| ---| ---               |
+| 1. | Escalonamento do produto através de parcerias com escolas e universidades;|
+| 2. | Alavancar o compartilhamento do jogo e ressaltar sua importância;|
+| 3. | Criação de mais fases para outras ferramentas mais complexas da Oracle;|
+| 4. | Recebimento de feedbacks dos professores para futuras melhorias;|
+| 5. | Oportunidade de letramento digital;|
+
+| #  | Ameaças (Threats)|
+| ---| ---               |
+| 1. | Crescimento do mercado de “Serious Games”;|
+| 2. | Instruções de cadastro pelo Chat GPT;|
+| 3. | Alguns professores podem resistir à adoção de novas tecnologias e métodos de ensino;|
 
 ### 1.1.3. Descrição da Solução Desenvolvida (sprints 1 e 4)
 
@@ -150,7 +186,7 @@ Considerando as personagens do game, analise se estas estão alinhadas ao públi
 
 *Inclua imagens de Concept Art do jogo que ainda não foram demonstradas em outras seções deste documento. Para cada imagem, coloque legendas, como no exemplo abaixo.*
 
-<img src="../assets/concept1.jpg">
+<img src="../assets/padrao/concept1.jpg">
 
 Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 
@@ -174,8 +210,8 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 *Exemplo de tabela*
 \# | item |  | como obter | função | efeito sonoro
 --- | --- | --- | --- | --- | ---
-1 | moeda | <img src="../assets/coin.png"> | há muitas espalhadas em todas as fases | acumula dinheiro para comprar outros itens | som de moeda
-2 | madeira | <img src="../assets/wood.png"> | há muitas espalhadas em todas as fases | acumula madeira para construir casas | som de madeiras
+1 | moeda | <img src="../assets/padrao/coin.png"> | há muitas espalhadas em todas as fases | acumula dinheiro para comprar outros itens | som de moeda
+2 | madeira | <img src="../assets/padrao/wood.png"> | há muitas espalhadas em todas as fases | acumula madeira para construir casas | som de madeiras
 3 | ... 
 
 ### 3.4.2. Bestiário
@@ -185,8 +221,8 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 *Exemplo de tabela*
 \# | inimigo |  | ocorrências | função | impacto | efeito sonoro
 --- | --- | --- | --- | --- | --- | ---
-1 | robô terrestre | <img src="../assets/inimigo2.PNG"> |  a partir da fase 1 | ataca o personagem vindo pelo chão em sua direção, com velocidade constante, atirando parafusos | se encostar no inimigo ou no parafuso arremessado, o personagem perde 1 ponto de vida | sons de tiros e engrenagens girando
-2 | robô voador | <img src="../assets/inimigo1.PNG"> | a partir da fase 2 | ataca o personagem vindo pelo ar, fazendo movimento em 'V' quando se aproxima | se encostar, o personagem perde 3 pontos de vida | som de hélice
+1 | robô terrestre | <img src="../assets/padrao/inimigo2.PNG"> |  a partir da fase 1 | ataca o personagem vindo pelo chão em sua direção, com velocidade constante, atirando parafusos | se encostar no inimigo ou no parafuso arremessado, o personagem perde 1 ponto de vida | sons de tiros e engrenagens girando
+2 | robô voador | <img src="../assets/padrao/inimigo1.PNG"> | a partir da fase 2 | ataca o personagem vindo pelo ar, fazendo movimento em 'V' quando se aproxima | se encostar, o personagem perde 3 pontos de vida | som de hélice
 3 | ... 
 
 ## 3.5. Gameflow (Diagrama de cenas) (sprint 2)
