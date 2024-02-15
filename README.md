@@ -12,10 +12,10 @@
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/victorbarq/">Bruno Carvalho Crusinski</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Heitor de Faria Cândido</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Kaio Vittor Martins Silva</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Mariana de Paula Barbosa Souza</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Yasmim</a>
 
 ## 👩‍🏫 Professores:
 ### Orientador(a) 
@@ -23,16 +23,15 @@
 ### Instrutores
 - <a href="https://www.linkedin.com/in/victorbarq/">Bruna Mayer</a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Kizzy Fernanda Terra Ferreira da Paz</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Renato Penha</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Henrique Mohallem Paiva</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">André Godoi Chiovato</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Diogo Martins Gonçalves de Morais</a>
 
 ## 📜 Descrição
 
 *Descreva seu projeto (até 600 palavras)*
 
-*Inclua o link para o jogo aqui*
+*O link do jogo será disponibilizado nas versões futuras*
 
 
 ## 📁 Estrutura de pastas
@@ -45,25 +44,17 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto do jogo.
 
-- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto e o jogo (o mesmo que você está lendo agora).
+- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto e o jogo.
 
 ## 🔧 Como executar o código
 
-*Acrescentar as informações necessárias sobre pré-requisitos (IDEs, serviços etc.) e instalação básica do projeto, descrevendo eventuais versões utilizadas. Colocar um passo a passo de como o leitor pode baixar o código e executar o jogo a partir de sua máquina ou seu repositório.*
+*Para executar nosso programa será necessário: acesso a internet e o uso de um serviço para servidores locais (recomendamos a extensão Live Server do VSCode).
+Instruções: Clone este repositório para a sua máquina e abra o arquivo index.html (presente na pasta src) usando a extensão Live Server ou outro serviço de banca de dados local que prefira*
 
 
 ## 🗃 Histórico de lançamentos
 
-* 0.5.0 - XX/XX/2024
-    * 
-* 0.4.0 - XX/XX/2024
-    * 
-* 0.3.0 - XX/XX/2024
-    * 
-* 0.2.0 - XX/XX/2024
-    * 
-* 0.1.0 - XX/XX/2024
-    *
+* 0.1.0 - 15/02/2024
 
 ## 📋 Licença/License
 

@@ -13,15 +13,15 @@ var config = {
 var game = new Phaser.Game(config);
 
 function preload(){ //faz upload das imagens
-    this.load.image("fundo", "assets/fundo.png");
-    this.load.image("logo", "assets/logo.png");
-    this.load.image("botao", "assets/botao.png");
-    this.load.image("botao-sombra", "assets/botao-sombra.png");
-    this.load.image("configuracoes", "assets/configurações.png");
-    this.load.image("musica", "assets/musica.png");
-    this.load.image("som", "assets/som.png");
-    this.load.image("opcoes", "assets/opções.png");
-    this.load.image("jogar", "assets/jogar.png");
+    this.load.image("fundo", "/../assets/telaInicial/fundo.png");
+    this.load.image("logo", "/../assets/telaInicial/logo.png");
+    this.load.image("botao", "/../assets/telaInicial/botao.png");
+    this.load.image("botao-sombra", "/../assets/telaInicial/botao-sombra.png");
+    this.load.image("configuracoes", "/../assets/telaInicial/configurações.png");
+    this.load.image("musica", "/../assets/telaInicial/musica.png");
+    this.load.image("som", "/../assets/telaInicial/som.png");
+    this.load.image("opcoes", "/../assets/telaInicial/opções.png");
+    this.load.image("jogar", "/../assets/telaInicial/jogar.png");
 }
 function create(){
     //adiciona as imagens na tela em uma escala de 0.5
