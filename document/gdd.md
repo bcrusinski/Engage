@@ -1,15 +1,17 @@
-<img src="../assets/logointeli.png">
+<img src="../assets/institucionaisInteli/logointeli.png">
 
 
 # GDD - Game Design Document - Módulo 1 - Inteli
 
-**_Os trechos em itálico servem apenas como guia para o preenchimento da seção. Por esse motivo, não devem fazer parte da documentação final_**
-
-## Nome do Grupo
-
-#### Nomes dos integrantes do grupo
 
 
+## Grupo Engage
+
+#### Bruno Carvalho Crusinski 
+#### Heitor de Faria Cândido 
+#### Kaio Vittor Martins Silva 
+#### Mariana de Paula Barbosa Souza 
+#### Yasmim Passos
 
 ## Sumário
 
@@ -45,7 +47,7 @@
 ### 1.1.2. Análise SWOT (sprints 1 e 4)
 
         A análise SWOT é uma ferramenta utilizada para analisar os agentes internos e externos que podem influenciar em um determinado espaço, bem como os pontos positivos e negativos que agregam ao resultado final.
-<img src = "other/Análise SWOT.png" alt="image" width="80%" height="auto">
+<img src = "other/analise SWOT.png" alt="image" width="80%" height="auto">
 
 #### Análise SWOT (Engage)
 | #  | Forças (Strengths)|
@@ -93,11 +95,22 @@
 
 <img src = "other/proposta de valor.png" alt="image" width="80%" height="auto">
 
-*Posicione aqui o canvas de proposta de valor. Descreva os aspectos essenciais para a criação de valor da ideia do produto com o objetivo de ajudar a entender melhor a realidade do cliente e entregar uma solução que está alinhado com o que ele espera.*
-
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
 
-*Registre na matriz os riscos identificados no projeto, visando avaliar situações que possam representar ameaças e oportunidades, bem como os impactos relevantes sobre o projeto. Apresente os riscos, ressaltando, para cada um, impactos e probabilidades com plano de ação e respostas.*
+        Dentro da elaboração do projeto Engage, há riscos de execução e finalização dele, sejam esses riscos positivos ou negativos à completude dele. Os riscos são incertezas futuras de um projeto que o impactam de alguma forma. Para analisar melhor os riscos e obter uma resposta planejada e organizada a eles, a matriz de riscos é indispensável.
+        A matriz de riscos é uma importante ferramenta para avaliar riscos de um produto, serviço, projeto, etc. Com ela, há uma organização maior dos problemas potenciais de um projeto, classificando-os com baixo, médio e alto risco dependendo de sua probabilidade e seu impacto.
+        Dentre os riscos do projeto engage:
+<img src = "other/matriz de risco.png" alt="image" width="80%" height="auto">
+
+
+| Risco| Descrição| Validade| Resposta| Plano de ação
+|---|---|---|---|---
+| Perda de armazenamento do código pelo github.| O github é o espaço utilizado para armazenar o código do jogo desenvolvido. Caso haja algum impedimento de acesso ou uma perda de dados ocasionado por essa plataforma de armazenamento, todo o código poderá ser perdido ou suspenso por um tempo, atrasando o andamento do projeto.| Sem validade.|Haverá uma resposta ativa.| Os integrantes irão armazenar até o final do projeto ao menos sua parte da programação em uma pasta local, diminuindo assim o impacto de uma perda total do código por completo.
+|Entraves do código.|O código pode apresentar falhas de funcionamento e apresentar comportamento fora do esperado, sendo prejudicial ao resultado do projeto.|Durante as 5 sprints.|Haverá uma resposta ativa.|Passar por uma análise do grupo, revisando o código e suas marcações. Caso persista ou não for encontrado o problema, deverá ser consultado um professor da área.
+|Risco de exposição de dados do projeto.|O armazenamento público do código no Github pode apresentar riscos ao projeto por ceder a outros usuários a possibilidade de plágio do jogo, vazamento de dados do jogo ou mesmo utilização indevida do jogo.|Sem validade.|Haverá uma resposta passiva.|
+|Acesso limitado a plataforma pelos desenvolvedores.|Durante o desenvolvimento do projeto, o grupo desenvolvedor do jogo não tem acesso direto a plataforma da Oracle Academy, o que além de prejudicar na compreensão integral dela pelo grupo, o jogo pode não acompanhar atualizações relevantes da plataforma.|Durante as 5 sprints.|Haverá uma resposta passiva.|Produzir o jogo levando em consideração o contato com a plataforma do primeiro sprint.
+|Falta de comunicação no grupo.|O grupo pode ter pouco, ou nenhuma comunicação em alguns momentos, o que prejudicará o desenvolvimento do artefato e do projeto por inteiro. A ausência de relatar problemas, a abstenção em pedir ajuda ou mesmo responder a questões do grupo, são todos fatores desse déficit.|Sem validade.|Haverá uma resposta ativa.|Além das dailys e fechamentos rotineiros, o grupo participará ativamente da gestão de todas as partes do projeto, prontificando-se em ajudar e decidindo se alguma tarefa demandará mais apoio. Os integrantes deverão ser honestos e apresentar seu trabalho aos demais durante o processo, reconhecendo dificuldades ou facilidades durante o processo.
+|Incompetência técnica de algum integrante em programação.|O projeto é desenvolvido por integrantes em desenvolvimento de suas hard skills de programação, nesse processo algum integrante pode apresentar um déficit o que acarretará em perda de produtividade do grupo e do andamento do projeto.|Sem validade.|Haverá uma resposta ativa.|Os integrantes exercerão a cada sprint uma função mais específica dentro do grupo e na sprint seguinte irão tutelar o próximo responsável por sua função. Desse modo, os novos integrantes de programação poderão compreender a jornada anterior e serão orientados de onde continuar e, caso necessário, diminuir seu déficit com o programador anterior.
 
 ## 1.2. Requisitos do Projeto (sprints 1 e 2)
 
