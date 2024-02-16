@@ -38,14 +38,14 @@
 
 ### 1.1.1. Contexto da indústria (sprints 1 e 4)
 
-	A Oracle é uma das maiores empresas atuais de tecnologia, tendo grande destaque no ramo e sendo referência em segurança cibernética. Produz majoritariamente sistemas e interfaces para bancos de dados, além de uma alta gama de softwares, hardwares e serviços relacionados à computação em nuvem.
-    Uma de suas ramificações é a Oracle Academy, uma plataforma de capacitação profissional para professores aprenderem a utilizar melhor as ferramentas Oracle em sala de aula. No entanto, nos últimos anos, com o crescimento da utilização de serviços on-line, o setor educacional voltado para professores aumentou gradativamente, mesmo que ainda tal setor seja preenchido por startups e iniciativas pouco tecnológicas agregando pouco ao letramento digital dos profissionais.
+	    A Oracle é uma das maiores empresas atuais de tecnologia, tendo grande destaque no ramo e sendo referência em segurança cibernética. Produz majoritariamente sistemas e interfaces para bancos de dados, além de uma alta gama de softwares, hardwares e serviços relacionados à computação em nuvem.
+        Uma de suas ramificações é a Oracle Academy, uma plataforma de capacitação profissional para professores aprenderem a utilizar melhor as ferramentas Oracle em sala de aula. No entanto, nos últimos anos, com o crescimento da utilização de serviços on-line, o setor educacional voltado para professores aumentou gradativamente, mesmo que ainda tal setor seja preenchido por startups e iniciativas pouco tecnológicas agregando pouco ao letramento digital dos profissionais.
 
 
 ### 1.1.2. Análise SWOT (sprints 1 e 4)
 
-    A análise SWOT é uma ferramenta utilizada para analisar os agentes internos e externos que podem influenciar em um determinado espaço, bem como os pontos positivos e negativos que agregam ao resultado final.
-<img src = "other/Análise SWOT.png">
+        A análise SWOT é uma ferramenta utilizada para analisar os agentes internos e externos que podem influenciar em um determinado espaço, bem como os pontos positivos e negativos que agregam ao resultado final.
+<img src = "other/Análise SWOT.png" alt="image" width="80%" height="auto">
 
 #### Análise SWOT (Engage)
 | #  | Forças (Strengths)|
@@ -82,9 +82,16 @@
 
 ### 1.1.3. Descrição da Solução Desenvolvida (sprints 1 e 4)
 
-*Descreva brevemente a solução desenvolvida para o parceiro de negócios. Descreva os aspectos essenciais para a criação de valor da ideia do produto com o objetivo de ajudar a entender melhor a realidade do cliente e entregar uma solução que está alinhado com o que ele espera. Observe a seção 2 e verifique que ali é possível trazer mais detalhes, portanto seja objetivo aqui. Atualize esta descrição até a entrega final, conforme desenvolvimento.*
+        Em se tratando de plataformas de ensino virtual, um dos maiores desafios está associado à adoção do aprendizado oriundos destas plataformas em sala de aula pelos professores. 
+        De acordo com a radiografia anual da TIC na Educação, cerca de 75% do corpo docente carece de uma plataforma para adquirir conhecimentos em ferramentas digitais. O artigo "Saúde Docente: Possibilidades e Limites" de 1999 destaca a tensão e o estresse causados pela desconexão entre as expectativas do sistema educacional e as condições reais dos professores.
+        Apresentado o cenário, o projeto ENGAGE é um jogo com 5 fases que facilita o cadastro e a compreensão da plataforma Oracle Academy. Cada fase apresenta um novo desafio, sendo cada um dos níveis um aprendizado relevante para o contato com a real plataforma, promovendo a exploração gradual dos recursos da plataforma e incentivando a aprendizagem eficiente dos professores.
+        Esse jogo deve ser utilizado precedendo o contato com o site da Oracle Academy, para que assim o professor possa aprender com ele a melhor forma de explorar sua interface e suas oportunidades. Portanto, ao criar uma nova ambientação envolvendo educação, jogabilidade e tecnologia, o processo de absorção e engajamento das ferramentas oferecidas se torna muito mais eficaz e memorável.
+        Para avaliar o sucesso da proposta, serão fornecidos feedbacks ao final de cada jornada do jogador, visando enriquecer a experiência do usuário. Métricas mensais na plataforma da Oracle Academy serão usadas para rastrear a adesão de professores pós-jogo, identificar desistências, medir o êxito das atividades e avaliar a receptividade dos alunos às ferramentas e orientações dos professores.
+
 
 ### 1.1.4. Proposta de Valor (sprints 1 e 4)
+
+<img src = "other/proposta de valor.png" alt="image" width="80%" height="auto">
 
 *Posicione aqui o canvas de proposta de valor. Descreva os aspectos essenciais para a criação de valor da ideia do produto com o objetivo de ajudar a entender melhor a realidade do cliente e entregar uma solução que está alinhado com o que ele espera.*
 
@@ -94,17 +101,36 @@
 
 ## 1.2. Requisitos do Projeto (sprints 1 e 2)
 
-*Posicione aqui a lista de requisitos levantados para o projeto, sejam pedidos do parceiro ou invenções do grupo. Descreva-os de forma objetiva, de modo que seja possível entender claramente como implementá-los tecnicamente.*
 
-*ATUALIZE ESTA SEÇÃO SEMPRE QUE ALGUM REQUISITO MUDAR EM SEU PROJETO*
-
-*Exemplo de tabela de requisitos*
-\# | Requisito  
+|# | Requisitos - Jogo para Oracle Academy  
 --- | ---
-1 | O controle do personagem será realizado usando as teclas WASD para navegação pelas fases
-2 | O personagem perde uma vida toda vez que tocar em um inimigo ou em algum projétil inimigo
-3 | O jogo deve possuir uma tela de abertura para o jogador selecionar se quer jogar sozinho ou em dupla
-4 | ...
+| 1. | O jogo deverá seguir a temática de “serious game”, projetada para ensinar, treinar, simular ou resolver problemas em áreas específicas, como educação.
+| 2. | O jogo não deverá conter elementos risíveis.
+| 3. | O jogo deverá ser em primeira pessoa e não conter nenhum avatar que se mova, apenas um assistente que acompanha o jogador durante toda a jornada.
+| 4. | A criação precisará ser desenvolvida com base em 5 fases pré-estabelecidas*
+| 5. | Colocar o professor jogador como protagonista da experiência. 
+| 6. | A paleta de cores só poderá conter cores pastéis/ sóbrias.
+| 7. | As mecânicas do jogo serão de clicar, arrastar, selecionar e digitar.
+| 8. | A ambientação do jogo deve obrigatoriamente ser feita em 2D.
+| 9. | Não há limites para a quantidade de ambientações, mas todas devem representar cômodos de fácil jogabilidade.
+| 10. | Todos os objetos que podem ser movimentados deverão aumentar de tamanho ao serem arrastados para fora do ambiente referido (para melhor visualização do usuário).
+| 11. | As fases determinam uma sequência gradativa de desafios. 
+| 12. | O jogo deverá ser disponibilizado para acesso via Web Browser.
+
+\* Detalhamento do requisito 4:
+* FASE 1: Cadastro
+* FASE 2: Conhecendo as plataformas e recursos disponíveis:
+    * Navegação nos conteúdos;
+    * Inscrição em cursos;
+* FASE 3: Canais:
+* Criação de canais;
+    * Inclusão de conteúdos nos canais;
+    * Cadastro de alunos nos canais;
+* FASE 4: Cloud:
+    * Solicitação de conta cloud;
+    * Solicitação de conta cloud para alunos;
+* FASE 5: Participação em sessão de suporte ao membro.|
+
 
 ## 1.3. Público-alvo do Projeto (sprint 2)
 
