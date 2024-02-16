@@ -3,13 +3,15 @@
 
 # GDD - Game Design Document - Módulo 1 - Inteli
 
-**_Os trechos em itálico servem apenas como guia para o preenchimento da seção. Por esse motivo, não devem fazer parte da documentação final_**
-
-## Nome do Grupo
-
-#### Nomes dos integrantes do grupo
 
 
+## Grupo Engage
+
+#### Bruno Carvalho Crusinski 
+#### Heitor de Faria Cândido 
+#### Kaio Vittor Martins Silva 
+#### Mariana de Paula Barbosa Souza 
+#### Yasmim Passos
 
 ## Sumário
 
@@ -38,37 +40,114 @@
 
 ### 1.1.1. Contexto da indústria (sprints 1 e 4)
 
-*Posicione aqui o texto que explica o contexto da indústria/mercado do qual o parceiro de projeto faz parte. Contextualize o segmento de atuação do parceiro (pode ser indústria, comércio ou serviço). Caracterize as atividades executadas pelo negócio do parceiro e a abrangência de suas atividades (âmbito internacional, nacional ou regional).*
+A Oracle é uma das maiores empresas atuais de tecnologia, tendo grande destaque no ramo e sendo referência em segurança cibernética. Produz majoritariamente sistemas e interfaces para bancos de dados, além de uma alta gama de softwares, hardwares e serviços relacionados à computação em nuvem.
+Uma de suas ramificações é a Oracle Academy, uma plataforma de capacitação profissional para professores aprenderem a utilizar melhor as ferramentas Oracle em sala de aula. No entanto, nos últimos anos, com o crescimento da utilização de serviços on-line, o setor educacional voltado para professores aumentou gradativamente, mesmo que ainda tal setor seja preenchido por startups e iniciativas pouco tecnológicas agregando pouco ao letramento digital dos profissionais.
+
 
 ### 1.1.2. Análise SWOT (sprints 1 e 4)
 
-*Posicione aqui a análise SWOT relacionada ao parceiro de projeto. Utilize a análise SWOT para fazer uma análise ambiental do parceiro no âmbito estratégico. Leve em consideração o contexto da indústria, concorrência e as características do ambiente interno (forças e fraquezas) e externo (oportunidades e ameaças) do parceiro.*
+A análise SWOT é uma ferramenta utilizada para analisar os agentes internos e externos que podem influenciar em um determinado espaço, bem como os pontos positivos e negativos que agregam ao resultado final.
+
+
+<img src = "other/analise SWOT.png" alt="image" width="80%" height="auto">
+
+#### Análise SWOT (Engage)
+| #  | Forças (Strengths)|
+| ---| ---               |
+| 1. | Produto agradável com boa luminosidade e sonoridade;|
+| 2. | Jogo de fácil acesso e jogabilidade;|
+| 3. | Cores neutras e visuais pixelados baseadas na modalidade “Cozy Game’ (Confortável, desestressante e aconchegante);|
+| 4. | Musicalidade desenvolvida a partir de musicoterapia para concentração e foco;|
+| 5. | Dinâmica a partir de pistas e fragmentos para a resolução do enigma, em que o mesmo representa, ao final, a conclusão de uma fase;|
+| 6. |Metodologia de instruções gamificadas;|
+
+| #  | Fraquezas (Weaknesses)|
+| ---| ---               |
+| 1. | Acessível somente para professores acadêmicos;|
+| 2. | Formato somente em 2D;|
+| 3. | Foco isolado para engajamento e instrução, tornando o público alvo demasiadamente seleto;|
+| 4. | Não é adaptável a todas as plataformas e consoles;|
+| 5. | Dependente de internet;|
+| 6. | Alguns professores podem achar a curva de aprendizado do jogo íngreme, especialmente se não estiverem familiarizados com jogos educativos;|
+
+| #  | Oportunidades (Opportunities)|
+| ---| ---               |
+| 1. | Escalonamento do produto através de parcerias com escolas e universidades;|
+| 2. | Alavancar o compartilhamento do jogo e ressaltar sua importância;|
+| 3. | Criação de mais fases para outras ferramentas mais complexas da Oracle;|
+| 4. | Recebimento de feedbacks dos professores para futuras melhorias;|
+| 5. | Oportunidade de letramento digital;|
+
+| #  | Ameaças (Threats)|
+| ---| ---               |
+| 1. | Crescimento do mercado de “Serious Games”;|
+| 2. | Instruções de cadastro pelo Chat GPT;|
+| 3. | Alguns professores podem resistir à adoção de novas tecnologias e métodos de ensino;|
 
 ### 1.1.3. Descrição da Solução Desenvolvida (sprints 1 e 4)
 
-*Descreva brevemente a solução desenvolvida para o parceiro de negócios. Descreva os aspectos essenciais para a criação de valor da ideia do produto com o objetivo de ajudar a entender melhor a realidade do cliente e entregar uma solução que está alinhado com o que ele espera. Observe a seção 2 e verifique que ali é possível trazer mais detalhes, portanto seja objetivo aqui. Atualize esta descrição até a entrega final, conforme desenvolvimento.*
+Em se tratando de plataformas de ensino virtual, um dos maiores desafios está associado à adoção do aprendizado oriundos destas plataformas em sala de aula pelos professores. 
+De acordo com a radiografia anual da TIC na Educação, cerca de 75% do corpo docente carece de uma plataforma para adquirir conhecimentos em ferramentas digitais. O artigo "Saúde Docente: Possibilidades e Limites" de 1999 destaca a tensão e o estresse causados pela desconexão entre as expectativas do sistema educacional e as condições reais dos professores.
+Apresentado o cenário, o projeto ENGAGE é um jogo com 5 fases que facilita o cadastro e a compreensão da plataforma Oracle Academy. Cada fase apresenta um novo desafio, sendo cada um dos níveis um aprendizado relevante para o contato com a real plataforma, promovendo a exploração gradual dos recursos da plataforma e incentivando a aprendizagem eficiente dos professores.
+Esse jogo deve ser utilizado precedendo o contato com o site da Oracle Academy, para que assim o professor possa aprender com ele a melhor forma de explorar sua interface e suas oportunidades. Portanto, ao criar uma nova ambientação envolvendo educação, jogabilidade e tecnologia, o processo de absorção e engajamento das ferramentas oferecidas se torna muito mais eficaz e memorável.
+Para avaliar o sucesso da proposta, serão fornecidos feedbacks ao final de cada jornada do jogador, visando enriquecer a experiência do usuário. Métricas mensais na plataforma da Oracle Academy serão usadas para rastrear a adesão de professores pós-jogo, identificar desistências, medir o êxito das atividades e avaliar a receptividade dos alunos às ferramentas e orientações dos professores.
+
 
 ### 1.1.4. Proposta de Valor (sprints 1 e 4)
 
-*Posicione aqui o canvas de proposta de valor. Descreva os aspectos essenciais para a criação de valor da ideia do produto com o objetivo de ajudar a entender melhor a realidade do cliente e entregar uma solução que está alinhado com o que ele espera.*
+<img src = "other/proposta de valor.png" alt="image" width="80%" height="auto">
 
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
 
-*Registre na matriz os riscos identificados no projeto, visando avaliar situações que possam representar ameaças e oportunidades, bem como os impactos relevantes sobre o projeto. Apresente os riscos, ressaltando, para cada um, impactos e probabilidades com plano de ação e respostas.*
+Dentro da elaboração do projeto Engage, há riscos de execução e finalização dele, sejam esses riscos positivos ou negativos à completude dele. Os riscos são incertezas futuras de um projeto que o impactam de alguma forma. Para analisar melhor os riscos e obter uma resposta planejada e organizada a eles, a matriz de riscos é indispensável.
+A matriz de riscos é uma importante ferramenta para avaliar riscos de um produto, serviço, projeto, etc. Com ela, há uma organização maior dos problemas potenciais de um projeto, classificando-os com baixo, médio e alto risco dependendo de sua probabilidade e seu impacto.
+Dentre os riscos do projeto engage:
+
+
+<img src = "other/matriz de risco.png" alt="image" width="80%" height="auto">
+
+
+| Risco| Descrição| Validade| Resposta| Plano de ação
+|---|---|---|---|---
+| Perda de armazenamento do código pelo github.| O github é o espaço utilizado para armazenar o código do jogo desenvolvido. Caso haja algum impedimento de acesso ou uma perda de dados ocasionado por essa plataforma de armazenamento, todo o código poderá ser perdido ou suspenso por um tempo, atrasando o andamento do projeto.| Sem validade.|Haverá uma resposta ativa.| Os integrantes irão armazenar até o final do projeto ao menos sua parte da programação em uma pasta local, diminuindo assim o impacto de uma perda total do código por completo.
+|Entraves do código.|O código pode apresentar falhas de funcionamento e apresentar comportamento fora do esperado, sendo prejudicial ao resultado do projeto.|Durante as 5 sprints.|Haverá uma resposta ativa.|Passar por uma análise do grupo, revisando o código e suas marcações. Caso persista ou não for encontrado o problema, deverá ser consultado um professor da área.
+|Risco de exposição de dados do projeto.|O armazenamento público do código no Github pode apresentar riscos ao projeto por ceder a outros usuários a possibilidade de plágio do jogo, vazamento de dados do jogo ou mesmo utilização indevida do jogo.|Sem validade.|Haverá uma resposta passiva.|
+|Acesso limitado a plataforma pelos desenvolvedores.|Durante o desenvolvimento do projeto, o grupo desenvolvedor do jogo não tem acesso direto a plataforma da Oracle Academy, o que além de prejudicar na compreensão integral dela pelo grupo, o jogo pode não acompanhar atualizações relevantes da plataforma.|Durante as 5 sprints.|Haverá uma resposta passiva.|Produzir o jogo levando em consideração o contato com a plataforma do primeiro sprint.
+|Falta de comunicação no grupo.|O grupo pode ter pouco, ou nenhuma comunicação em alguns momentos, o que prejudicará o desenvolvimento do artefato e do projeto por inteiro. A ausência de relatar problemas, a abstenção em pedir ajuda ou mesmo responder a questões do grupo, são todos fatores desse déficit.|Sem validade.|Haverá uma resposta ativa.|Além das dailys e fechamentos rotineiros, o grupo participará ativamente da gestão de todas as partes do projeto, prontificando-se em ajudar e decidindo se alguma tarefa demandará mais apoio. Os integrantes deverão ser honestos e apresentar seu trabalho aos demais durante o processo, reconhecendo dificuldades ou facilidades durante o processo.
+|Incompetência técnica de algum integrante em programação.|O projeto é desenvolvido por integrantes em desenvolvimento de suas hard skills de programação, nesse processo algum integrante pode apresentar um déficit o que acarretará em perda de produtividade do grupo e do andamento do projeto.|Sem validade.|Haverá uma resposta ativa.|Os integrantes exercerão a cada sprint uma função mais específica dentro do grupo e na sprint seguinte irão tutelar o próximo responsável por sua função. Desse modo, os novos integrantes de programação poderão compreender a jornada anterior e serão orientados de onde continuar e, caso necessário, diminuir seu déficit com o programador anterior.
 
 ## 1.2. Requisitos do Projeto (sprints 1 e 2)
 
-*Posicione aqui a lista de requisitos levantados para o projeto, sejam pedidos do parceiro ou invenções do grupo. Descreva-os de forma objetiva, de modo que seja possível entender claramente como implementá-los tecnicamente.*
 
-*ATUALIZE ESTA SEÇÃO SEMPRE QUE ALGUM REQUISITO MUDAR EM SEU PROJETO*
-
-*Exemplo de tabela de requisitos*
-\# | Requisito  
+|# | Requisitos - Jogo para Oracle Academy  
 --- | ---
-1 | O controle do personagem será realizado usando as teclas WASD para navegação pelas fases
-2 | O personagem perde uma vida toda vez que tocar em um inimigo ou em algum projétil inimigo
-3 | O jogo deve possuir uma tela de abertura para o jogador selecionar se quer jogar sozinho ou em dupla
-4 | ...
+| 1. | O jogo deverá seguir a temática de “serious game”, projetada para ensinar, treinar, simular ou resolver problemas em áreas específicas, como educação.
+| 2. | O jogo não deverá conter elementos risíveis.
+| 3. | O jogo deverá ser em primeira pessoa e não conter nenhum avatar que se mova, apenas um assistente que acompanha o jogador durante toda a jornada.
+| 4. | A criação precisará ser desenvolvida com base em 5 fases pré-estabelecidas*
+| 5. | Colocar o professor jogador como protagonista da experiência. 
+| 6. | A paleta de cores só poderá conter cores pastéis/ sóbrias.
+| 7. | As mecânicas do jogo serão de clicar, arrastar, selecionar e digitar.
+| 8. | A ambientação do jogo deve obrigatoriamente ser feita em 2D.
+| 9. | Não há limites para a quantidade de ambientações, mas todas devem representar cômodos de fácil jogabilidade.
+| 10. | Todos os objetos que podem ser movimentados deverão aumentar de tamanho ao serem arrastados para fora do ambiente referido (para melhor visualização do usuário).
+| 11. | As fases determinam uma sequência gradativa de desafios. 
+| 12. | O jogo deverá ser disponibilizado para acesso via Web Browser.
+
+\* Detalhamento do requisito 4:
+* FASE 1: Cadastro
+* FASE 2: Conhecendo as plataformas e recursos disponíveis:
+    * Navegação nos conteúdos;
+    * Inscrição em cursos;
+* FASE 3: Canais:
+* Criação de canais;
+    * Inclusão de conteúdos nos canais;
+    * Cadastro de alunos nos canais;
+* FASE 4: Cloud:
+    * Solicitação de conta cloud;
+    * Solicitação de conta cloud para alunos;
+* FASE 5: Participação em sessão de suporte ao membro.|
+
 
 ## 1.3. Público-alvo do Projeto (sprint 2)
 
@@ -150,7 +229,7 @@ Considerando as personagens do game, analise se estas estão alinhadas ao públi
 
 *Inclua imagens de Concept Art do jogo que ainda não foram demonstradas em outras seções deste documento. Para cada imagem, coloque legendas, como no exemplo abaixo.*
 
-<img src="../assets/concept1.jpg">
+<img src="../assets/padrao/concept1.jpg">
 
 Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 
@@ -174,8 +253,8 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 *Exemplo de tabela*
 \# | item |  | como obter | função | efeito sonoro
 --- | --- | --- | --- | --- | ---
-1 | moeda | <img src="../assets/coin.png"> | há muitas espalhadas em todas as fases | acumula dinheiro para comprar outros itens | som de moeda
-2 | madeira | <img src="../assets/wood.png"> | há muitas espalhadas em todas as fases | acumula madeira para construir casas | som de madeiras
+1 | moeda | <img src="../assets/padrao/coin.png"> | há muitas espalhadas em todas as fases | acumula dinheiro para comprar outros itens | som de moeda
+2 | madeira | <img src="../assets/padrao/wood.png"> | há muitas espalhadas em todas as fases | acumula madeira para construir casas | som de madeiras
 3 | ... 
 
 ### 3.4.2. Bestiário
@@ -185,8 +264,8 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 *Exemplo de tabela*
 \# | inimigo |  | ocorrências | função | impacto | efeito sonoro
 --- | --- | --- | --- | --- | --- | ---
-1 | robô terrestre | <img src="../assets/inimigo2.PNG"> |  a partir da fase 1 | ataca o personagem vindo pelo chão em sua direção, com velocidade constante, atirando parafusos | se encostar no inimigo ou no parafuso arremessado, o personagem perde 1 ponto de vida | sons de tiros e engrenagens girando
-2 | robô voador | <img src="../assets/inimigo1.PNG"> | a partir da fase 2 | ataca o personagem vindo pelo ar, fazendo movimento em 'V' quando se aproxima | se encostar, o personagem perde 3 pontos de vida | som de hélice
+1 | robô terrestre | <img src="../assets/padrao/inimigo2.PNG"> |  a partir da fase 1 | ataca o personagem vindo pelo chão em sua direção, com velocidade constante, atirando parafusos | se encostar no inimigo ou no parafuso arremessado, o personagem perde 1 ponto de vida | sons de tiros e engrenagens girando
+2 | robô voador | <img src="../assets/padrao/inimigo1.PNG"> | a partir da fase 2 | ataca o personagem vindo pelo ar, fazendo movimento em 'V' quando se aproxima | se encostar, o personagem perde 3 pontos de vida | som de hélice
 3 | ... 
 
 ## 3.5. Gameflow (Diagrama de cenas) (sprint 2)
@@ -213,7 +292,10 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 
 ## 4.1. Desenvolvimento preliminar do jogo (sprint 1)
 
-*Descreva e ilustre aqui o desenvolvimento da sua primeira versão do jogo, explicando brevemente o que foi entregue em termos de código e jogo. Utilize prints de tela para ilustrar. Indique as eventuais dificuldades e próximos passos.*
+Para a versão preliminar do jogo, foi desenvolvido a tela inicial contendo dois botões com animações perpétuas e três botões com animações ao colocar o mouse em cima. Para garantir que todos os botões estão clicáveis, um console.log é ativado ao acionar os eventos de clique. Originalmente, o programa necessitava do arquivo phaser.js local, porém o aprimoramos para acessar o mesmo arquivo via internet. Segue a imagem da página finalizada:
+
+<img src = "other/tela inicial.png" alt="image" width="80%" height="auto">
+
 
 ## 4.2. Desenvolvimento básico do jogo (sprint 2)
 
