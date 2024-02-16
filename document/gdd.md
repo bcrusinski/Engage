@@ -41,7 +41,8 @@
 ### 1.1.1. Contexto da indústria (sprints 1 e 4)
 
 A Oracle é uma das maiores empresas atuais de tecnologia, tendo grande destaque no ramo e sendo referência em segurança cibernética. Produz majoritariamente sistemas e interfaces para bancos de dados, além de uma alta gama de softwares, hardwares e serviços relacionados à computação em nuvem.
-Uma de suas ramificações é a Oracle Academy, uma plataforma de capacitação profissional para professores aprenderem a utilizar melhor as ferramentas Oracle em sala de aula. No entanto, nos últimos anos, com o crescimento da utilização de serviços on-line, o setor educacional voltado para professores aumentou gradativamente, mesmo que ainda tal setor seja preenchido por startups e iniciativas pouco tecnológicas agregando pouco ao letramento digital dos profissionais.
+Uma de suas ramificações é a Oracle Academy, uma plataforma de capacitação profissional para professores aprenderem a utilizarem melhor em sala de aula as ferramentas Oracle. No entanto, nos últimos anos, com o crescimento da utilização de serviços on-line, o setor educacional voltado para professores aumentou gradativamente, mesmo que ainda tal setor seja preenchido por startups e iniciativas pouco tecnológicas agregando pouco ao letramento digital dos profissionais.
+
 
 
 ### 1.1.2. Análise SWOT (sprints 1 e 4)
@@ -292,10 +293,24 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 
 ## 4.1. Desenvolvimento preliminar do jogo (sprint 1)
 
-Para a versão preliminar do jogo, foi desenvolvido a tela inicial contendo dois botões com animações perpétuas e três botões com animações ao colocar o mouse em cima. Para garantir que todos os botões estão clicáveis, um console.log é ativado ao acionar os eventos de clique. Originalmente, o programa necessitava do arquivo phaser.js local, porém o aprimoramos para acessar o mesmo arquivo via internet. Segue a imagem da página finalizada:
+Para a versão preliminar do jogo, foi desenvolvido a tela inicial contendo dois botões com animações perpétuas e três botões com animações ao colocar o mouse em cima, juntamente com a transição para um protótipo do cenário inicial ao clicar no botão "Jogar". Apesar de, atualmente, apenas o botão "Jogar" possuir uma funcionalidade, todos os botões já são clicáveis, ativando o comando console.log com textos distintos para cada um. Originalmente, o programa necessitava do arquivo phaser.js local e o tamanho de tela era fixo, porém na versão atual podemos acessá-lo via web, retirando a dependência do mesmo dentro do diretório, e o tamanho de tela pode se adequar ao dispositivo.
 
-<img src = "other/tela inicial.png" alt="image" width="80%" height="auto">
+Segue as imagens da página finalizada:
 
+<figure>
+    <img src = "other/tela inicial.png" alt="image" width="80%" height="auto" >
+  <figcaption>Legenda: tela inicial</figcaption>
+</figure>
+
+<figure>
+    <img src = "other/prototipo_cenario1.png" alt="image" width="80%" height="auto" >
+  <figcaption>Legenda: protótipo do 1º cenário</figcaption>
+</figure>
+
+<figure>
+    <img src = "other/consoleLogs.png" alt="image" width="80%" height="auto" >
+  <figcaption>Legenda: comandos console.log</figcaption>
+</figure>
 
 ## 4.2. Desenvolvimento básico do jogo (sprint 2)
 
