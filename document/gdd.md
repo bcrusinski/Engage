@@ -40,13 +40,15 @@
 
 ### 1.1.1. Contexto da indústria (sprints 1 e 4)
 
-	    A Oracle é uma das maiores empresas atuais de tecnologia, tendo grande destaque no ramo e sendo referência em segurança cibernética. Produz majoritariamente sistemas e interfaces para bancos de dados, além de uma alta gama de softwares, hardwares e serviços relacionados à computação em nuvem.
-        Uma de suas ramificações é a Oracle Academy, uma plataforma de capacitação profissional para professores aprenderem a utilizar melhor as ferramentas Oracle em sala de aula. No entanto, nos últimos anos, com o crescimento da utilização de serviços on-line, o setor educacional voltado para professores aumentou gradativamente, mesmo que ainda tal setor seja preenchido por startups e iniciativas pouco tecnológicas agregando pouco ao letramento digital dos profissionais.
+A Oracle é uma das maiores empresas atuais de tecnologia, tendo grande destaque no ramo e sendo referência em segurança cibernética. Produz majoritariamente sistemas e interfaces para bancos de dados, além de uma alta gama de softwares, hardwares e serviços relacionados à computação em nuvem.
+Uma de suas ramificações é a Oracle Academy, uma plataforma de capacitação profissional para professores aprenderem a utilizar melhor as ferramentas Oracle em sala de aula. No entanto, nos últimos anos, com o crescimento da utilização de serviços on-line, o setor educacional voltado para professores aumentou gradativamente, mesmo que ainda tal setor seja preenchido por startups e iniciativas pouco tecnológicas agregando pouco ao letramento digital dos profissionais.
 
 
 ### 1.1.2. Análise SWOT (sprints 1 e 4)
 
-        A análise SWOT é uma ferramenta utilizada para analisar os agentes internos e externos que podem influenciar em um determinado espaço, bem como os pontos positivos e negativos que agregam ao resultado final.
+A análise SWOT é uma ferramenta utilizada para analisar os agentes internos e externos que podem influenciar em um determinado espaço, bem como os pontos positivos e negativos que agregam ao resultado final.
+
+
 <img src = "other/analise SWOT.png" alt="image" width="80%" height="auto">
 
 #### Análise SWOT (Engage)
@@ -84,11 +86,11 @@
 
 ### 1.1.3. Descrição da Solução Desenvolvida (sprints 1 e 4)
 
-        Em se tratando de plataformas de ensino virtual, um dos maiores desafios está associado à adoção do aprendizado oriundos destas plataformas em sala de aula pelos professores. 
-        De acordo com a radiografia anual da TIC na Educação, cerca de 75% do corpo docente carece de uma plataforma para adquirir conhecimentos em ferramentas digitais. O artigo "Saúde Docente: Possibilidades e Limites" de 1999 destaca a tensão e o estresse causados pela desconexão entre as expectativas do sistema educacional e as condições reais dos professores.
-        Apresentado o cenário, o projeto ENGAGE é um jogo com 5 fases que facilita o cadastro e a compreensão da plataforma Oracle Academy. Cada fase apresenta um novo desafio, sendo cada um dos níveis um aprendizado relevante para o contato com a real plataforma, promovendo a exploração gradual dos recursos da plataforma e incentivando a aprendizagem eficiente dos professores.
-        Esse jogo deve ser utilizado precedendo o contato com o site da Oracle Academy, para que assim o professor possa aprender com ele a melhor forma de explorar sua interface e suas oportunidades. Portanto, ao criar uma nova ambientação envolvendo educação, jogabilidade e tecnologia, o processo de absorção e engajamento das ferramentas oferecidas se torna muito mais eficaz e memorável.
-        Para avaliar o sucesso da proposta, serão fornecidos feedbacks ao final de cada jornada do jogador, visando enriquecer a experiência do usuário. Métricas mensais na plataforma da Oracle Academy serão usadas para rastrear a adesão de professores pós-jogo, identificar desistências, medir o êxito das atividades e avaliar a receptividade dos alunos às ferramentas e orientações dos professores.
+Em se tratando de plataformas de ensino virtual, um dos maiores desafios está associado à adoção do aprendizado oriundos destas plataformas em sala de aula pelos professores. 
+De acordo com a radiografia anual da TIC na Educação, cerca de 75% do corpo docente carece de uma plataforma para adquirir conhecimentos em ferramentas digitais. O artigo "Saúde Docente: Possibilidades e Limites" de 1999 destaca a tensão e o estresse causados pela desconexão entre as expectativas do sistema educacional e as condições reais dos professores.
+Apresentado o cenário, o projeto ENGAGE é um jogo com 5 fases que facilita o cadastro e a compreensão da plataforma Oracle Academy. Cada fase apresenta um novo desafio, sendo cada um dos níveis um aprendizado relevante para o contato com a real plataforma, promovendo a exploração gradual dos recursos da plataforma e incentivando a aprendizagem eficiente dos professores.
+Esse jogo deve ser utilizado precedendo o contato com o site da Oracle Academy, para que assim o professor possa aprender com ele a melhor forma de explorar sua interface e suas oportunidades. Portanto, ao criar uma nova ambientação envolvendo educação, jogabilidade e tecnologia, o processo de absorção e engajamento das ferramentas oferecidas se torna muito mais eficaz e memorável.
+Para avaliar o sucesso da proposta, serão fornecidos feedbacks ao final de cada jornada do jogador, visando enriquecer a experiência do usuário. Métricas mensais na plataforma da Oracle Academy serão usadas para rastrear a adesão de professores pós-jogo, identificar desistências, medir o êxito das atividades e avaliar a receptividade dos alunos às ferramentas e orientações dos professores.
 
 
 ### 1.1.4. Proposta de Valor (sprints 1 e 4)
@@ -97,9 +99,11 @@
 
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
 
-        Dentro da elaboração do projeto Engage, há riscos de execução e finalização dele, sejam esses riscos positivos ou negativos à completude dele. Os riscos são incertezas futuras de um projeto que o impactam de alguma forma. Para analisar melhor os riscos e obter uma resposta planejada e organizada a eles, a matriz de riscos é indispensável.
-        A matriz de riscos é uma importante ferramenta para avaliar riscos de um produto, serviço, projeto, etc. Com ela, há uma organização maior dos problemas potenciais de um projeto, classificando-os com baixo, médio e alto risco dependendo de sua probabilidade e seu impacto.
-        Dentre os riscos do projeto engage:
+Dentro da elaboração do projeto Engage, há riscos de execução e finalização dele, sejam esses riscos positivos ou negativos à completude dele. Os riscos são incertezas futuras de um projeto que o impactam de alguma forma. Para analisar melhor os riscos e obter uma resposta planejada e organizada a eles, a matriz de riscos é indispensável.
+A matriz de riscos é uma importante ferramenta para avaliar riscos de um produto, serviço, projeto, etc. Com ela, há uma organização maior dos problemas potenciais de um projeto, classificando-os com baixo, médio e alto risco dependendo de sua probabilidade e seu impacto.
+Dentre os riscos do projeto engage:
+
+
 <img src = "other/matriz de risco.png" alt="image" width="80%" height="auto">
 
 
@@ -288,7 +292,8 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 
 ## 4.1. Desenvolvimento preliminar do jogo (sprint 1)
 
-        Para a versão preliminar do jogo, foi desenvolvido a tela inicial contendo dois botões com animações perpétuas e três botões com animações ao colocar o mouse em cima. Para garantir que todos os botões estão clicáveis, um console.log é ativado ao acionar os eventos de clique. Originalmente, o programa necessitava do arquivo phaser.js local, porém o aprimoramos para acessar o mesmo arquivo via internet. Segue a imagem da página finalizada:
+Para a versão preliminar do jogo, foi desenvolvido a tela inicial contendo dois botões com animações perpétuas e três botões com animações ao colocar o mouse em cima. Para garantir que todos os botões estão clicáveis, um console.log é ativado ao acionar os eventos de clique. Originalmente, o programa necessitava do arquivo phaser.js local, porém o aprimoramos para acessar o mesmo arquivo via internet. Segue a imagem da página finalizada:
+
 <img src = "other/tela inicial.png" alt="image" width="80%" height="auto">
 
 
