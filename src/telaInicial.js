@@ -4,25 +4,25 @@ class TelaInicial extends Phaser.Scene {
   }
   preload() {
     // Carrega as imagens do background (FundoCinza, Fundo Quadriculado, Casa)
-    this.load.image("fundoCinza", "/../assets/telaInicial/fundo_cinza.png");
-    this.load.image("fundoQuadriculado", "/../assets/telaInicial/fundo_quadriculado.png");
-    this.load.image("Casa", "/../assets/casaInicial/casa.png");
+    this.load.image("fundoCinza", "assets/telaInicial/fundo_cinza.png");
+    this.load.image("fundoQuadriculado", "assets/telaInicial/fundo_quadriculado.png");
+    this.load.image("Casa", "assets/casaInicial/casa.png");
 
     // Carrega a logo (Engage)
-    this.load.image("logoEngage", "/../assets/telaInicial/logo.png");
+    this.load.image("logoEngage", "assets/telaInicial/logo.png");
 
     // Texto Botoes (texto: 'Jogar', 'Opções')
-    this.load.image("txtBtnJogar", "/../assets/telaInicial/jogar.png");
-    this.load.image("txtBtnOpcoes", "/../assets/telaInicial/opções.png");
+    this.load.image("txtBtnJogar", "assets/telaInicial/jogar.png");
+    this.load.image("txtBtnOpcoes", "assets/telaInicial/opções.png");
 
     // Assets botões centrais (Jogar, Opções)
-    this.load.image("backgroundBotao", "/../assets/telaInicial/botoes/botao.png");
-    this.load.image("sombraBotao", "/../assets/telaInicial/botoes/botao-sombra.png");
+    this.load.image("backgroundBotao", "assets/telaInicial/botoes/botao.png");
+    this.load.image("sombraBotao", "assets/telaInicial/botoes/botao-sombra.png");
 
     // Assets botões laterais (Config, Musica, Som, Opções)
-    this.load.image("btnConfig", "/../assets/telaInicial/botoes/configurações.png");
-    this.load.image("btnMusica", "/../assets/telaInicial/botoes/musica.png");
-    this.load.image("btnSom", "/../assets/telaInicial/botoes/som.png");
+    this.load.image("btnConfig", "assets/telaInicial/botoes/configurações.png");
+    this.load.image("btnMusica", "assets/telaInicial/botoes/musica.png");
+    this.load.image("btnSom", "assets/telaInicial/botoes/som.png");
   }
   create() {
     // * Cria o cenário de fundo em camadas *
@@ -35,15 +35,15 @@ class TelaInicial extends Phaser.Scene {
     this.add.image(gameState.mediaWidth, gameState.mediaHeight, "fundoCinza").setAlpha(0.62).setScale(2);
 
     // Adiciona a logo na tela (Engage)
-    this.add.image(gameState.mediaWidth - 20, gameState.mediaHeight - 110, "logoEngage").setScale(0.5);
+    this.add.image(gameState.mediaWidth - 20, gameState.mediaHeight - 140, "logoEngage").setScale(0.75);
 
     // Adiciona sombra nos botoes de Jogar e Opções
-    this.add.image(gameState.mediaWidth, gameState.mediaHeight + 35, "sombraBotao").setScale(0.5);
-    this.add.image(gameState.mediaWidth, gameState.mediaHeight + 135, "sombraBotao").setScale(0.5);
+    this.add.image(gameState.mediaWidth, gameState.mediaHeight + 35, "sombraBotao").setScale(0.6);
+    this.add.image(gameState.mediaWidth, gameState.mediaHeight + 155, "sombraBotao").setScale(0.6);
 
     // Cria os botoes (Jogar, Opções) na tela
-    var btnJogar = this.add.image(gameState.mediaWidth, gameState.mediaHeight + 20, "backgroundBotao").setScale(0.5);
-    var btnOpcoes = this.add.image(gameState.mediaWidth, gameState.mediaHeight + 120, "backgroundBotao").setScale(0.5);
+    var btnJogar = this.add.image(gameState.mediaWidth, gameState.mediaHeight + 20, "backgroundBotao").setScale(0.6);
+    var btnOpcoes = this.add.image(gameState.mediaWidth, gameState.mediaHeight + 140, "backgroundBotao").setScale(0.6);
 
     // Cria os botoes (Config, Musica, Som) na tela
     var btnConfig = this.add.image(gameState.gameWidth - 45, 45, "btnConfig").setScale(0.5);
@@ -51,8 +51,8 @@ class TelaInicial extends Phaser.Scene {
     var btnSound = this.add.image(gameState.gameWidth - 45, 185, "btnSom").setScale(0.5);
 
     // Cria os textos ("Jogar", "Opções") na tela
-    var txtBtnJogar = this.add.image(gameState.mediaWidth, btnJogar.y, "txtBtnJogar").setScale(0.5);
-    var txtBtnOpcoes = this.add.image(gameState.mediaWidth, btnOpcoes.y, "txtBtnOpcoes").setScale(0.5);
+    var txtBtnJogar = this.add.image(gameState.mediaWidth, btnJogar.y, "txtBtnJogar").setScale(0.6);
+    var txtBtnOpcoes = this.add.image(gameState.mediaWidth, btnOpcoes.y, "txtBtnOpcoes").setScale(0.6);
 
     // Define os botões interativo
     btnJogar.setInteractive();
