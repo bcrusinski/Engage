@@ -4,25 +4,25 @@ class TelaInicial extends Phaser.Scene {
   }
   preload() {
     // Carrega as imagens do background (FundoCinza, Fundo Quadriculado, Casa)
-    this.load.image("fundoCinza", "/../assets/telaInicial/fundo_cinza.png");
-    this.load.image("fundoQuadriculado", "/../assets/telaInicial/fundo_quadriculado.png");
-    this.load.image("Casa", "/../assets/casaInicial/casa.png");
+    this.load.image("fundoCinza", "../assets/telaInicial/fundo_cinza.png");
+    this.load.image("fundoQuadriculado", "../assets/telaInicial/fundo_quadriculado.png");
+    this.load.image("Casa", "../assets/casaInicial/casa.png");
 
     // Carrega a logo (Engage)
-    this.load.image("logoEngage", "/../assets/telaInicial/logo.png");
+    this.load.image("logoEngage", "../assets/telaInicial/logo.png");
 
     // Texto Botoes (texto: 'Jogar', 'Opções')
-    this.load.image("txtBtnJogar", "/../assets/telaInicial/jogar.png");
-    this.load.image("txtBtnOpcoes", "/../assets/telaInicial/opções.png");
+    this.load.image("txtBtnJogar", "../assets/telaInicial/jogar.png");
+    this.load.image("txtBtnOpcoes", "../assets/telaInicial/opções.png");
 
     // Assets botões centrais (Jogar, Opções)
-    this.load.image("backgroundBotao", "/../assets/telaInicial/botoes/botao.png");
-    this.load.image("sombraBotao", "/../assets/telaInicial/botoes/botao-sombra.png");
+    this.load.image("backgroundBotao", "../assets/telaInicial/botoes/botao.png");
+    this.load.image("sombraBotao", "../assets/telaInicial/botoes/botao-sombra.png");
 
     // Assets botões laterais (Config, Musica, Som, Opções)
-    this.load.image("btnConfig", "/../assets/telaInicial/botoes/configurações.png");
-    this.load.image("btnMusica", "/../assets/telaInicial/botoes/musica.png");
-    this.load.image("btnSom", "/../assets/telaInicial/botoes/som.png");
+    this.load.image("btnConfig", "../assets/telaInicial/botoes/configurações.png");
+    this.load.image("btnMusica", "../assets/telaInicial/botoes/musica.png");
+    this.load.image("btnSom", "../assets/telaInicial/botoes/som.png");
   }
   create() {
     // * Cria o cenário de fundo em camadas *
