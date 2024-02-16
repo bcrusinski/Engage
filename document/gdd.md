@@ -288,7 +288,9 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 
 ## 4.1. Desenvolvimento preliminar do jogo (sprint 1)
 
-*Descreva e ilustre aqui o desenvolvimento da sua primeira versão do jogo, explicando brevemente o que foi entregue em termos de código e jogo. Utilize prints de tela para ilustrar. Indique as eventuais dificuldades e próximos passos.*
+        Para a versão preliminar do jogo, foi desenvolvido a tela inicial contendo dois botões com animações perpétuas e três botões com animações ao colocar o mouse em cima. Para garantir que todos os botões estão clicáveis, um console.log é ativado ao acionar os eventos de clique. Originalmente, o programa necessitava do arquivo phaser.js local, porém o aprimoramos para acessar o mesmo arquivo via internet. Segue a imagem da página finalizada:
+<img src = "other/tela inicial.png" alt="image" width="80%" height="auto">
+
 
 ## 4.2. Desenvolvimento básico do jogo (sprint 2)
 
